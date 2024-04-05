@@ -1,5 +1,9 @@
 # A-CALVI
+![Adaptive flow](https://i.ibb.co/Lg0NYkM/Adaptive-flow.png)
 
+Paper: https://ieeexplore.ieee.org/abstract/document/10295997?casa_token=UinzvF_hMtwAAAAA:gYckztZwzaOsc0dZsVeb-3Lcwiv6msGLB8XxeZTqWnUhD08foSo3GzRHyjcMwHd-sHaCNG4
+
+Citation: Y. Cui, L. W. Ge, Y. Ding, F. Yang, L. Harrison and M. Kay, "Adaptive Assessment of Visualization Literacy," in IEEE Transactions on Visualization and Computer Graphics, vol. 30, no. 1, pp. 628-637, Jan. 2024, doi: 10.1109/TVCG.2023.3327165
 ## Requirements
 * Cloud Firestore from Firebase
 * Github account
